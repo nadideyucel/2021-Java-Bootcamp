@@ -1,20 +1,20 @@
 import java.util.Scanner;
 
-public class deneme {
+public class notOrtalama {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int matematik, fizik, kimya, turkce, tarih, muzik;
-        System.out.println("Matematik Notu ;");
+        System.out.println("Matematik Notu :");
         matematik = scan.nextInt();
-        System.out.println("Fizik Notu ;");
+        System.out.println("Fizik Notu :");
         fizik = scan.nextInt();
-        System.out.println("Kimya Notu ;");
+        System.out.println("Kimya Notu :");
         kimya = scan.nextInt();
-        System.out.println("Türkçe Notu ;");
+        System.out.println("Türkçe Notu :");
         turkce = scan.nextInt();
-        System.out.println("Tarih Notu ;");
+        System.out.println("Tarih Notu :");
         tarih = scan.nextInt();
-        System.out.println("Müzik Notu ;");
+        System.out.println("Müzik Notu :");
         muzik = scan.nextInt();
         int ortalama=(matematik+fizik+kimya+turkce+tarih+muzik)/6;
         System.out.println("Ortalamanız : "+ortalama);

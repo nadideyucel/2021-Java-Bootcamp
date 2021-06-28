@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b78da70c-0a90-4d68-a9e7-56adac07097d" name="Default Changelist" comment="" />
+    <list default="true" id="b78da70c-0a90-4d68-a9e7-56adac07097d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java101/src/deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/notOrtalama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java101/src/ortalama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java101/deneme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java101/ortalama.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,14 +32,43 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration name="ortalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ortalama" />
+  <component name="RunManager" selected="Application.hesapMakinesi">
+    <configuration name="daireDilimAlani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daireDilimAlani" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hesapMakinesi" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="manavKasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manavKasa" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="taksimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taksimetre" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vucutKitleIndexi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vucutKitleIndexi" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -40,7 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ortalama" />
+        <item itemvalue="Application.hesapMakinesi" />
+        <item itemvalue="Application.manavKasa" />
+        <item itemvalue="Application.vucutKitleIndexi" />
+        <item itemvalue="Application.daireDilimAlani" />
+        <item itemvalue="Application.taksimetre" />
       </list>
     </recent_temporary>
   </component>
