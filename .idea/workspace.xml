@@ -3,22 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b78da70c-0a90-4d68-a9e7-56adac07097d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101/src/daireDilimAlani.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/DaireDilimAlani.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101/src/hesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/HesapMakinesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101/src/hipotenüs.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/Hipotenüs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101/src/kdvTutariHesapla.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/KdvTutariHesapla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101/src/manavKasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/ManavKasa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101/src/notOrtalama.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/NotOrtalama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101/src/taksimetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/Taksimetre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101/src/vucutKitleIndexi.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/VucutKitleIndexi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java101/daireDilimAlani.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/daireDilimAlani.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java101/hesapMakinesi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/hesapMakinesi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java101/hipotenüs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/hipotenüs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java101/kdvTutariHesapla.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/kdvTutariHesapla.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java101/manavKasa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/manavKasa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java101/notOrtalama.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/notOrtalama.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java101/taksimetre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/taksimetre.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java101/vucutKitleIndexi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/vucutKitleIndexi.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,37 +33,37 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FibonacciSerisi">
-    <configuration name="AsalSayiBul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AsalSayiBul" />
+  <component name="RunManager" selected="Application.RecursiveDesen">
+    <configuration name="GelismisHesapMakine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GelismisHesapMakine" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSerisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciSerisi" />
+    <configuration name="RecursiveAsal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveAsal" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxBul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinMaxBul" />
+    <configuration name="RecursiveDesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveDesen" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MukemmelSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MukemmelSayi" />
+    <configuration name="RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveFibonacci" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TersUcgen" />
+    <configuration name="RecursiveUsluSayiHesapla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveUsluSayiHesapla" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FibonacciSerisi" />
-        <item itemvalue="Application.AsalSayiBul" />
-        <item itemvalue="Application.TersUcgen" />
-        <item itemvalue="Application.MukemmelSayi" />
-        <item itemvalue="Application.MinMaxBul" />
+        <item itemvalue="Application.RecursiveDesen" />
+        <item itemvalue="Application.RecursiveAsal" />
+        <item itemvalue="Application.RecursiveUsluSayiHesapla" />
+        <item itemvalue="Application.GelismisHesapMakine" />
+        <item itemvalue="Application.RecursiveFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +144,11 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java101/src/PalindromSayi.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
