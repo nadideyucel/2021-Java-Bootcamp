@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class vucutKitleIndexi {
+public class VucutKitleIndexi {
     public static void main(String[] args) {
         double b,k,index;
         Scanner scan=new Scanner(System.in);

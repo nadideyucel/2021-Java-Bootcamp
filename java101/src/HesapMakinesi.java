@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class hesapMakinesi {
+public class HesapMakinesi {
     public static void main(String[] args) {
         double n1, n2;
         int secim;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class daireDilimAlani {
+public class DaireDilimAlani {
     public static void main(String[] args) {
         double r,a,pi=3.14;
         Scanner scan = new Scanner(System.in);

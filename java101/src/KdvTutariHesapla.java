@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class kdvTutariHesapla {
+public class KdvTutariHesapla {
     public static void main(String[] args) {
         double tutar;
         Scanner scan = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class manavKasa {
+public class ManavKasa {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double a, e, d, m, p;

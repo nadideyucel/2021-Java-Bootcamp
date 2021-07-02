@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class notOrtalama {
+public class NotOrtalama {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int matematik, fizik, kimya, turkce, tarih, muzik;
