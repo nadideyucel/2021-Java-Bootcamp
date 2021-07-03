@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b78da70c-0a90-4d68-a9e7-56adac07097d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java101/src/MaasHesaplayici.java" beforeDir="false" afterPath="$PROJECT_DIR$/java101/src/MaasHesaplayici.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java101/MaasHesaplayici.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/MaasHesaplayici.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,49 +35,37 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MaasHesaplayici">
-    <configuration name="BoksMaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BoksMaci" />
+  <component name="RunManager" selected="Application.MayinTarlasi">
+    <configuration name="DiziElemanFrekansBul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiziElemanFrekansBul" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmpDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maashesaplayici.EmpDriver" />
-      <module name="java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maashesaplayici.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaasHesaplayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaasHesaplayici" />
+    <configuration name="MatrisTranspoz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrisTranspoz" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ogrencibilgisistemi.Main" />
+    <configuration name="MayinTarlasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MayinTarlasi" />
       <module name="java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ogrencibilgisistemi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveDesen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveDesen" />
+    <configuration name="PalindromikKelime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromikKelime" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SayiTahmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SayiTahmin" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaasHesaplayici" />
-        <item itemvalue="Application.EmpDriver" />
-        <item itemvalue="Application.BoksMaci" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RecursiveDesen" />
+        <item itemvalue="Application.MayinTarlasi" />
+        <item itemvalue="Application.PalindromikKelime" />
+        <item itemvalue="Application.SayiTahmin" />
+        <item itemvalue="Application.MatrisTranspoz" />
+        <item itemvalue="Application.DiziElemanFrekansBul" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +146,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/java101/src/EnYakinSayiBul.java</url>
+          <line>4</line>
+          <properties class="EnYakinSayiBul" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/java101/src/BHarfiYazdir.java</url>
+          <line>3</line>
+          <properties class="BHarfiYazdir" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java101/src/PalindromSayi.java</url>

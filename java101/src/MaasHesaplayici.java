@@ -26,7 +26,7 @@ public class MaasHesaplayici {
         int bonus = 30*this.workHours;
         return bonus;
     }
-    
+
         int raiseSalary() {
             int fark = 2021 - this.hireYear;
             int zam = 0;
@@ -62,9 +62,6 @@ public class MaasHesaplayici {
                     "\nToplam Maaş: " + toplamMaas();
         }
 
-
-
-    //import java.util.Scanner;
 
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
